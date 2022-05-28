@@ -25,7 +25,7 @@ exit #退出
 
 #打開與關閉mysql
 ```
-mysql.server start <-
+mysql.server start
 mysql.server restart
 mysql.server stop
 ```
